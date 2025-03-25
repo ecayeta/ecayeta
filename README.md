@@ -10,4 +10,4 @@
  - Mi cumpleaños es el 5 de septiembre 🎂
  ---
  
- ![Este soy yo](https://github.com/user-attachments/assets/38166510-0d59-4601-aa54-d4ef6b838df3)
+ ![Este soy yo](https://github.com/user-attachments/assets/14c1653c-8207-4b79-a799-8c312cf41856)
